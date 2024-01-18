@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-12multi_whileloop", "1-12multi_whileloop.csproj", "{CE8BE26B-C946-4BE0-A3EF-67E4E9308DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE8BE26B-C946-4BE0-A3EF-67E4E9308DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8BE26B-C946-4BE0-A3EF-67E4E9308DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8BE26B-C946-4BE0-A3EF-67E4E9308DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8BE26B-C946-4BE0-A3EF-67E4E9308DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F1AAB9-8F98-4E7A-80E1-58B4DDB15AC6}
+	EndGlobalSection
+EndGlobal

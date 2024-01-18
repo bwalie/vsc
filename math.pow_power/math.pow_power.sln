@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "math.pow_power", "math.pow_power.csproj", "{7B834ED2-9D1E-42CE-8521-5CBF3EBDE95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B834ED2-9D1E-42CE-8521-5CBF3EBDE95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B834ED2-9D1E-42CE-8521-5CBF3EBDE95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B834ED2-9D1E-42CE-8521-5CBF3EBDE95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B834ED2-9D1E-42CE-8521-5CBF3EBDE95E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {346AA991-296C-4026-B867-86CFD7F7190B}
+	EndGlobalSection
+EndGlobal

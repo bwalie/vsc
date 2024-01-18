@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "positivenegcount_dowhile", "positivenegcount_dowhile.csproj", "{506F6A52-986D-4470-947F-01908ED63E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506F6A52-986D-4470-947F-01908ED63E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506F6A52-986D-4470-947F-01908ED63E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506F6A52-986D-4470-947F-01908ED63E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506F6A52-986D-4470-947F-01908ED63E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB61DF0-8384-421A-95B7-7769D2A013A4}
+	EndGlobalSection
+EndGlobal

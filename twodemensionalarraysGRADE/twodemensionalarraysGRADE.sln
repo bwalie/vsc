@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twodemensionalarraysGRADE", "twodemensionalarraysGRADE.csproj", "{3685C838-1EAA-4AF4-AF72-125C59A93418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3685C838-1EAA-4AF4-AF72-125C59A93418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3685C838-1EAA-4AF4-AF72-125C59A93418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3685C838-1EAA-4AF4-AF72-125C59A93418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3685C838-1EAA-4AF4-AF72-125C59A93418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C5F59E8-F9D6-46D1-92DD-A01287B218CB}
+	EndGlobalSection
+EndGlobal

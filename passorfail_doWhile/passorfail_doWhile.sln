@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passorfail_doWhile", "passorfail_doWhile.csproj", "{32A0D754-E17F-467E-9592-789AB092CD60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A0D754-E17F-467E-9592-789AB092CD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A0D754-E17F-467E-9592-789AB092CD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A0D754-E17F-467E-9592-789AB092CD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A0D754-E17F-467E-9592-789AB092CD60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A987D0E5-BDEF-4F7D-BDA5-69605BA7942A}
+	EndGlobalSection
+EndGlobal

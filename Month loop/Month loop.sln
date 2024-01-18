@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Month loop", "Month loop.csproj", "{E5226B17-B221-4020-B6D1-87378B8270DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5226B17-B221-4020-B6D1-87378B8270DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5226B17-B221-4020-B6D1-87378B8270DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5226B17-B221-4020-B6D1-87378B8270DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5226B17-B221-4020-B6D1-87378B8270DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD6F6302-6512-4FDA-86A9-20B0DEEE1F2B}
+	EndGlobalSection
+EndGlobal

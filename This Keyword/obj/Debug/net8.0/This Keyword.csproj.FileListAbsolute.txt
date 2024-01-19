@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\This Keyword\bin\Debug\net8.0\This Keyword.exe
+C:\Users\Admin\source\repos\This Keyword\bin\Debug\net8.0\This Keyword.deps.json
+C:\Users\Admin\source\repos\This Keyword\bin\Debug\net8.0\This Keyword.runtimeconfig.json
+C:\Users\Admin\source\repos\This Keyword\bin\Debug\net8.0\This Keyword.dll
+C:\Users\Admin\source\repos\This Keyword\bin\Debug\net8.0\This Keyword.pdb
+C:\Users\Admin\source\repos\This Keyword\obj\Debug\net8.0\This Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\This Keyword\obj\Debug\net8.0\This Keyword.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\This Keyword\obj\Debug\net8.0\This Keyword.AssemblyInfo.cs
+C:\Users\Admin\source\repos\This Keyword\obj\Debug\net8.0\This Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\This Keyword\obj\Debug\net8.0\This Keyword.sourcelink.json
+C:\Users\Admin\source\repos\This Keyword\obj\Debug\net8.0\This Keyword.dll
+C:\Users\Admin\source\repos\This Keyword\obj\Debug\net8.0\refint\This Keyword.dll
+C:\Users\Admin\source\repos\This Keyword\obj\Debug\net8.0\This Keyword.pdb
+C:\Users\Admin\source\repos\This Keyword\obj\Debug\net8.0\This Keyword.genruntimeconfig.cache
+C:\Users\Admin\source\repos\This Keyword\obj\Debug\net8.0\ref\This Keyword.dll

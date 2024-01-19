@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\C# class multiple class\bin\Debug\net8.0\C# class multiple class.exe
+C:\Users\Admin\source\repos\C# class multiple class\bin\Debug\net8.0\C# class multiple class.deps.json
+C:\Users\Admin\source\repos\C# class multiple class\bin\Debug\net8.0\C# class multiple class.runtimeconfig.json
+C:\Users\Admin\source\repos\C# class multiple class\bin\Debug\net8.0\C# class multiple class.dll
+C:\Users\Admin\source\repos\C# class multiple class\bin\Debug\net8.0\C# class multiple class.pdb
+C:\Users\Admin\source\repos\C# class multiple class\obj\Debug\net8.0\C# class multiple class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\C# class multiple class\obj\Debug\net8.0\C# class multiple class.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\C# class multiple class\obj\Debug\net8.0\C# class multiple class.AssemblyInfo.cs
+C:\Users\Admin\source\repos\C# class multiple class\obj\Debug\net8.0\C# class multiple class.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C# class multiple class\obj\Debug\net8.0\C# class multiple class.sourcelink.json
+C:\Users\Admin\source\repos\C# class multiple class\obj\Debug\net8.0\C# class multiple class.dll
+C:\Users\Admin\source\repos\C# class multiple class\obj\Debug\net8.0\refint\C# class multiple class.dll
+C:\Users\Admin\source\repos\C# class multiple class\obj\Debug\net8.0\C# class multiple class.pdb
+C:\Users\Admin\source\repos\C# class multiple class\obj\Debug\net8.0\C# class multiple class.genruntimeconfig.cache
+C:\Users\Admin\source\repos\C# class multiple class\obj\Debug\net8.0\ref\C# class multiple class.dll

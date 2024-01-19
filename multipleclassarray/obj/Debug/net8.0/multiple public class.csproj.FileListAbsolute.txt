@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\multiple public class\bin\Debug\net8.0\multiple public class.exe
+C:\Users\Admin\source\repos\multiple public class\bin\Debug\net8.0\multiple public class.deps.json
+C:\Users\Admin\source\repos\multiple public class\bin\Debug\net8.0\multiple public class.runtimeconfig.json
+C:\Users\Admin\source\repos\multiple public class\bin\Debug\net8.0\multiple public class.dll
+C:\Users\Admin\source\repos\multiple public class\bin\Debug\net8.0\multiple public class.pdb
+C:\Users\Admin\source\repos\multiple public class\obj\Debug\net8.0\multiple public class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\multiple public class\obj\Debug\net8.0\multiple public class.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\multiple public class\obj\Debug\net8.0\multiple public class.AssemblyInfo.cs
+C:\Users\Admin\source\repos\multiple public class\obj\Debug\net8.0\multiple public class.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\multiple public class\obj\Debug\net8.0\multiple public class.sourcelink.json
+C:\Users\Admin\source\repos\multiple public class\obj\Debug\net8.0\multiple public class.dll
+C:\Users\Admin\source\repos\multiple public class\obj\Debug\net8.0\refint\multiple public class.dll
+C:\Users\Admin\source\repos\multiple public class\obj\Debug\net8.0\multiple public class.pdb
+C:\Users\Admin\source\repos\multiple public class\obj\Debug\net8.0\multiple public class.genruntimeconfig.cache
+C:\Users\Admin\source\repos\multiple public class\obj\Debug\net8.0\ref\multiple public class.dll

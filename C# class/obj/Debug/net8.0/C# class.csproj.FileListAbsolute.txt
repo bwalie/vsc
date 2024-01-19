@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\C# class\bin\Debug\net8.0\C# class.exe
+C:\Users\Admin\source\repos\C# class\bin\Debug\net8.0\C# class.deps.json
+C:\Users\Admin\source\repos\C# class\bin\Debug\net8.0\C# class.runtimeconfig.json
+C:\Users\Admin\source\repos\C# class\bin\Debug\net8.0\C# class.dll
+C:\Users\Admin\source\repos\C# class\bin\Debug\net8.0\C# class.pdb
+C:\Users\Admin\source\repos\C# class\obj\Debug\net8.0\C# class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\C# class\obj\Debug\net8.0\C# class.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\C# class\obj\Debug\net8.0\C# class.AssemblyInfo.cs
+C:\Users\Admin\source\repos\C# class\obj\Debug\net8.0\C# class.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C# class\obj\Debug\net8.0\C# class.sourcelink.json
+C:\Users\Admin\source\repos\C# class\obj\Debug\net8.0\C# class.dll
+C:\Users\Admin\source\repos\C# class\obj\Debug\net8.0\refint\C# class.dll
+C:\Users\Admin\source\repos\C# class\obj\Debug\net8.0\C# class.pdb
+C:\Users\Admin\source\repos\C# class\obj\Debug\net8.0\C# class.genruntimeconfig.cache
+C:\Users\Admin\source\repos\C# class\obj\Debug\net8.0\ref\C# class.dll

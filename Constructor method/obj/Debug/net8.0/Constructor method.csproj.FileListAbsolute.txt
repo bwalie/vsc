@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Constructor method\bin\Debug\net8.0\Constructor method.exe
+C:\Users\Admin\source\repos\Constructor method\bin\Debug\net8.0\Constructor method.deps.json
+C:\Users\Admin\source\repos\Constructor method\bin\Debug\net8.0\Constructor method.runtimeconfig.json
+C:\Users\Admin\source\repos\Constructor method\bin\Debug\net8.0\Constructor method.dll
+C:\Users\Admin\source\repos\Constructor method\bin\Debug\net8.0\Constructor method.pdb
+C:\Users\Admin\source\repos\Constructor method\obj\Debug\net8.0\Constructor method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Constructor method\obj\Debug\net8.0\Constructor method.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Constructor method\obj\Debug\net8.0\Constructor method.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Constructor method\obj\Debug\net8.0\Constructor method.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Constructor method\obj\Debug\net8.0\Constructor method.sourcelink.json
+C:\Users\Admin\source\repos\Constructor method\obj\Debug\net8.0\Constructor method.dll
+C:\Users\Admin\source\repos\Constructor method\obj\Debug\net8.0\refint\Constructor method.dll
+C:\Users\Admin\source\repos\Constructor method\obj\Debug\net8.0\Constructor method.pdb
+C:\Users\Admin\source\repos\Constructor method\obj\Debug\net8.0\Constructor method.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Constructor method\obj\Debug\net8.0\ref\Constructor method.dll

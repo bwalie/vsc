@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\bin\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.exe
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\bin\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.deps.json
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\bin\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.runtimeconfig.json
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\bin\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.dll
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\bin\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.pdb
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\obj\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\obj\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\obj\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.AssemblyInfo.cs
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\obj\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\obj\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.sourcelink.json
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\obj\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.dll
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\obj\Debug\net8.0\refint\C#multipleclasses_exercise_TestEmployee.dll
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\obj\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.pdb
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\obj\Debug\net8.0\C#multipleclasses_exercise_TestEmployee.genruntimeconfig.cache
+C:\Users\Admin\source\repos\C#multipleclasses_exercise_TestEmployee\obj\Debug\net8.0\ref\C#multipleclasses_exercise_TestEmployee.dll

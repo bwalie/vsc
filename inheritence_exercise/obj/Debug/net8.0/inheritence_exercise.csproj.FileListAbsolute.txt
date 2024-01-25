@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\obj\Debug\net8.0\inheritence_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\obj\Debug\net8.0\inheritence_exercise.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\obj\Debug\net8.0\inheritence_exercise.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\obj\Debug\net8.0\inheritence_exercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\obj\Debug\net8.0\inheritence_exercise.sourcelink.json
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\bin\Debug\net8.0\inheritence_exercise.exe
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\bin\Debug\net8.0\inheritence_exercise.deps.json
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\bin\Debug\net8.0\inheritence_exercise.runtimeconfig.json
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\bin\Debug\net8.0\inheritence_exercise.dll
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\bin\Debug\net8.0\inheritence_exercise.pdb
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\obj\Debug\net8.0\inheritence_exercise.dll
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\obj\Debug\net8.0\refint\inheritence_exercise.dll
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\obj\Debug\net8.0\inheritence_exercise.pdb
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\obj\Debug\net8.0\inheritence_exercise.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\practices\inheritence_exercise\obj\Debug\net8.0\ref\inheritence_exercise.dll

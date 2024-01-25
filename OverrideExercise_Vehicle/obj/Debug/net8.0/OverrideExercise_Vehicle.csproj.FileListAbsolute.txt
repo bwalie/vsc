@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\bin\Debug\net8.0\OverrideExercise_Vehicle.exe
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\bin\Debug\net8.0\OverrideExercise_Vehicle.deps.json
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\bin\Debug\net8.0\OverrideExercise_Vehicle.runtimeconfig.json
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\bin\Debug\net8.0\OverrideExercise_Vehicle.dll
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\bin\Debug\net8.0\OverrideExercise_Vehicle.pdb
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\obj\Debug\net8.0\OverrideExercise_Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\obj\Debug\net8.0\OverrideExercise_Vehicle.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\obj\Debug\net8.0\OverrideExercise_Vehicle.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\obj\Debug\net8.0\OverrideExercise_Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\obj\Debug\net8.0\OverrideExercise_Vehicle.sourcelink.json
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\obj\Debug\net8.0\OverrideExercise_Vehicle.dll
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\obj\Debug\net8.0\refint\OverrideExercise_Vehicle.dll
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\obj\Debug\net8.0\OverrideExercise_Vehicle.pdb
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\obj\Debug\net8.0\OverrideExercise_Vehicle.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_Vehicle\obj\Debug\net8.0\ref\OverrideExercise_Vehicle.dll

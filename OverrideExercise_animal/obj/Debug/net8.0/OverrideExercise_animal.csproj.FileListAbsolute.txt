@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\bin\Debug\net8.0\OverrideExercise_animal.exe
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\bin\Debug\net8.0\OverrideExercise_animal.deps.json
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\bin\Debug\net8.0\OverrideExercise_animal.runtimeconfig.json
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\bin\Debug\net8.0\OverrideExercise_animal.dll
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\bin\Debug\net8.0\OverrideExercise_animal.pdb
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\obj\Debug\net8.0\OverrideExercise_animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\obj\Debug\net8.0\OverrideExercise_animal.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\obj\Debug\net8.0\OverrideExercise_animal.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\obj\Debug\net8.0\OverrideExercise_animal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\obj\Debug\net8.0\OverrideExercise_animal.sourcelink.json
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\obj\Debug\net8.0\OverrideExercise_animal.dll
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\obj\Debug\net8.0\refint\OverrideExercise_animal.dll
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\obj\Debug\net8.0\OverrideExercise_animal.pdb
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\obj\Debug\net8.0\OverrideExercise_animal.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\practices\OverrideExercise_animal\obj\Debug\net8.0\ref\OverrideExercise_animal.dll

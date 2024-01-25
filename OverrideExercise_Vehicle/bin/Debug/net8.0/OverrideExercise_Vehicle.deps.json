@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OverrideExercise_Vehicle/1.0.0": {
+        "runtime": {
+          "OverrideExercise_Vehicle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OverrideExercise_Vehicle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

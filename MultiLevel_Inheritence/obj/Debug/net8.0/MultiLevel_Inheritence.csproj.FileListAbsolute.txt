@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\bin\Debug\net8.0\MultiLevel_Inheritence.exe
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\bin\Debug\net8.0\MultiLevel_Inheritence.deps.json
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\bin\Debug\net8.0\MultiLevel_Inheritence.runtimeconfig.json
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\bin\Debug\net8.0\MultiLevel_Inheritence.dll
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\bin\Debug\net8.0\MultiLevel_Inheritence.pdb
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\obj\Debug\net8.0\MultiLevel_Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\obj\Debug\net8.0\MultiLevel_Inheritence.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\obj\Debug\net8.0\MultiLevel_Inheritence.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\obj\Debug\net8.0\MultiLevel_Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\obj\Debug\net8.0\MultiLevel_Inheritence.sourcelink.json
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\obj\Debug\net8.0\MultiLevel_Inheritence.dll
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\obj\Debug\net8.0\refint\MultiLevel_Inheritence.dll
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\obj\Debug\net8.0\MultiLevel_Inheritence.pdb
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\obj\Debug\net8.0\MultiLevel_Inheritence.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\practices\MultiLevel_Inheritence\obj\Debug\net8.0\ref\MultiLevel_Inheritence.dll

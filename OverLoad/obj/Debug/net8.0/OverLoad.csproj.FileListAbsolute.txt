@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\practices\OverLoad\bin\Debug\net8.0\OverLoad.exe
+C:\Users\Admin\RiderProjects\practices\OverLoad\bin\Debug\net8.0\OverLoad.deps.json
+C:\Users\Admin\RiderProjects\practices\OverLoad\bin\Debug\net8.0\OverLoad.runtimeconfig.json
+C:\Users\Admin\RiderProjects\practices\OverLoad\bin\Debug\net8.0\OverLoad.dll
+C:\Users\Admin\RiderProjects\practices\OverLoad\bin\Debug\net8.0\OverLoad.pdb
+C:\Users\Admin\RiderProjects\practices\OverLoad\obj\Debug\net8.0\OverLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\practices\OverLoad\obj\Debug\net8.0\OverLoad.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\practices\OverLoad\obj\Debug\net8.0\OverLoad.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\practices\OverLoad\obj\Debug\net8.0\OverLoad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\practices\OverLoad\obj\Debug\net8.0\OverLoad.sourcelink.json
+C:\Users\Admin\RiderProjects\practices\OverLoad\obj\Debug\net8.0\OverLoad.dll
+C:\Users\Admin\RiderProjects\practices\OverLoad\obj\Debug\net8.0\refint\OverLoad.dll
+C:\Users\Admin\RiderProjects\practices\OverLoad\obj\Debug\net8.0\OverLoad.pdb
+C:\Users\Admin\RiderProjects\practices\OverLoad\obj\Debug\net8.0\OverLoad.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\practices\OverLoad\obj\Debug\net8.0\ref\OverLoad.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\practices\systemException\bin\Debug\net8.0\systemException.exe
+C:\Users\Admin\RiderProjects\practices\systemException\bin\Debug\net8.0\systemException.deps.json
+C:\Users\Admin\RiderProjects\practices\systemException\bin\Debug\net8.0\systemException.runtimeconfig.json
+C:\Users\Admin\RiderProjects\practices\systemException\bin\Debug\net8.0\systemException.dll
+C:\Users\Admin\RiderProjects\practices\systemException\bin\Debug\net8.0\systemException.pdb
+C:\Users\Admin\RiderProjects\practices\systemException\obj\Debug\net8.0\systemException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\practices\systemException\obj\Debug\net8.0\systemException.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\practices\systemException\obj\Debug\net8.0\systemException.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\practices\systemException\obj\Debug\net8.0\systemException.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\practices\systemException\obj\Debug\net8.0\systemException.sourcelink.json
+C:\Users\Admin\RiderProjects\practices\systemException\obj\Debug\net8.0\systemException.dll
+C:\Users\Admin\RiderProjects\practices\systemException\obj\Debug\net8.0\refint\systemException.dll
+C:\Users\Admin\RiderProjects\practices\systemException\obj\Debug\net8.0\systemException.pdb
+C:\Users\Admin\RiderProjects\practices\systemException\obj\Debug\net8.0\systemException.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\practices\systemException\obj\Debug\net8.0\ref\systemException.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\practices\catchexercise\obj\Debug\net8.0\catchexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\practices\catchexercise\obj\Debug\net8.0\catchexercise.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\practices\catchexercise\obj\Debug\net8.0\catchexercise.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\practices\catchexercise\obj\Debug\net8.0\catchexercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\practices\catchexercise\obj\Debug\net8.0\catchexercise.sourcelink.json
+C:\Users\Admin\RiderProjects\practices\catchexercise\bin\Debug\net8.0\catchexercise.exe
+C:\Users\Admin\RiderProjects\practices\catchexercise\bin\Debug\net8.0\catchexercise.deps.json
+C:\Users\Admin\RiderProjects\practices\catchexercise\bin\Debug\net8.0\catchexercise.runtimeconfig.json
+C:\Users\Admin\RiderProjects\practices\catchexercise\bin\Debug\net8.0\catchexercise.dll
+C:\Users\Admin\RiderProjects\practices\catchexercise\bin\Debug\net8.0\catchexercise.pdb
+C:\Users\Admin\RiderProjects\practices\catchexercise\obj\Debug\net8.0\catchexercise.dll
+C:\Users\Admin\RiderProjects\practices\catchexercise\obj\Debug\net8.0\refint\catchexercise.dll
+C:\Users\Admin\RiderProjects\practices\catchexercise\obj\Debug\net8.0\catchexercise.pdb
+C:\Users\Admin\RiderProjects\practices\catchexercise\obj\Debug\net8.0\catchexercise.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\practices\catchexercise\obj\Debug\net8.0\ref\catchexercise.dll

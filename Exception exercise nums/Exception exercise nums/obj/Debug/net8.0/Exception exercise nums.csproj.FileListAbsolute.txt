@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\bin\Debug\net8.0\Exception exercise nums.exe
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\bin\Debug\net8.0\Exception exercise nums.deps.json
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\bin\Debug\net8.0\Exception exercise nums.runtimeconfig.json
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\bin\Debug\net8.0\Exception exercise nums.dll
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\bin\Debug\net8.0\Exception exercise nums.pdb
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\obj\Debug\net8.0\Exception exercise nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\obj\Debug\net8.0\Exception exercise nums.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\obj\Debug\net8.0\Exception exercise nums.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\obj\Debug\net8.0\Exception exercise nums.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\obj\Debug\net8.0\Exception exercise nums.dll
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\obj\Debug\net8.0\refint\Exception exercise nums.dll
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\obj\Debug\net8.0\Exception exercise nums.pdb
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\obj\Debug\net8.0\Exception exercise nums.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\Exception exercise nums\Exception exercise nums\obj\Debug\net8.0\ref\Exception exercise nums.dll

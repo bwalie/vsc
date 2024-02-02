@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\VSC\bill\bin\Debug\net8.0\bill.exe
+C:\Users\Admin\RiderProjects\VSC\bill\bin\Debug\net8.0\bill.deps.json
+C:\Users\Admin\RiderProjects\VSC\bill\bin\Debug\net8.0\bill.runtimeconfig.json
+C:\Users\Admin\RiderProjects\VSC\bill\bin\Debug\net8.0\bill.dll
+C:\Users\Admin\RiderProjects\VSC\bill\bin\Debug\net8.0\bill.pdb
+C:\Users\Admin\RiderProjects\VSC\bill\obj\Debug\net8.0\bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\VSC\bill\obj\Debug\net8.0\bill.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\VSC\bill\obj\Debug\net8.0\bill.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\VSC\bill\obj\Debug\net8.0\bill.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\VSC\bill\obj\Debug\net8.0\bill.sourcelink.json
+C:\Users\Admin\RiderProjects\VSC\bill\obj\Debug\net8.0\bill.dll
+C:\Users\Admin\RiderProjects\VSC\bill\obj\Debug\net8.0\refint\bill.dll
+C:\Users\Admin\RiderProjects\VSC\bill\obj\Debug\net8.0\bill.pdb
+C:\Users\Admin\RiderProjects\VSC\bill\obj\Debug\net8.0\bill.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\VSC\bill\obj\Debug\net8.0\ref\bill.dll

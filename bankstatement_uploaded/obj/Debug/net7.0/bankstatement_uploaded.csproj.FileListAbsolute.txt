@@ -1,0 +1,14 @@
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\bin\Debug\net7.0\bankstatement_uploaded.exe
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\bin\Debug\net7.0\bankstatement_uploaded.deps.json
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\bin\Debug\net7.0\bankstatement_uploaded.runtimeconfig.json
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\bin\Debug\net7.0\bankstatement_uploaded.dll
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\bin\Debug\net7.0\bankstatement_uploaded.pdb
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\obj\Debug\net7.0\bankstatement_uploaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\obj\Debug\net7.0\bankstatement_uploaded.AssemblyInfoInputs.cache
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\obj\Debug\net7.0\bankstatement_uploaded.AssemblyInfo.cs
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\obj\Debug\net7.0\bankstatement_uploaded.csproj.CoreCompileInputs.cache
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\obj\Debug\net7.0\bankstatement_uploaded.dll
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\obj\Debug\net7.0\refint\bankstatement_uploaded.dll
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\obj\Debug\net7.0\bankstatement_uploaded.pdb
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\obj\Debug\net7.0\bankstatement_uploaded.genruntimeconfig.cache
+C:\Users\rachel.htike\RiderProjects\vsc\bankstatement_uploaded\obj\Debug\net7.0\ref\bankstatement_uploaded.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\bin\Debug\net8.0\projectfordebug.exe
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\bin\Debug\net8.0\projectfordebug.deps.json
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\bin\Debug\net8.0\projectfordebug.runtimeconfig.json
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\bin\Debug\net8.0\projectfordebug.dll
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\bin\Debug\net8.0\projectfordebug.pdb
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\obj\Debug\net8.0\projectfordebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\obj\Debug\net8.0\projectfordebug.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\obj\Debug\net8.0\projectfordebug.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\obj\Debug\net8.0\projectfordebug.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\obj\Debug\net8.0\projectfordebug.sourcelink.json
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\obj\Debug\net8.0\projectfordebug.dll
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\obj\Debug\net8.0\refint\projectfordebug.dll
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\obj\Debug\net8.0\projectfordebug.pdb
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\obj\Debug\net8.0\projectfordebug.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\VSC\projectfordebug\obj\Debug\net8.0\ref\projectfordebug.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\VSC\TextRead\bin\Debug\net8.0\TextRead.exe
+C:\Users\Admin\RiderProjects\VSC\TextRead\bin\Debug\net8.0\TextRead.deps.json
+C:\Users\Admin\RiderProjects\VSC\TextRead\bin\Debug\net8.0\TextRead.runtimeconfig.json
+C:\Users\Admin\RiderProjects\VSC\TextRead\bin\Debug\net8.0\TextRead.dll
+C:\Users\Admin\RiderProjects\VSC\TextRead\bin\Debug\net8.0\TextRead.pdb
+C:\Users\Admin\RiderProjects\VSC\TextRead\obj\Debug\net8.0\TextRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\VSC\TextRead\obj\Debug\net8.0\TextRead.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\VSC\TextRead\obj\Debug\net8.0\TextRead.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\VSC\TextRead\obj\Debug\net8.0\TextRead.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\VSC\TextRead\obj\Debug\net8.0\TextRead.sourcelink.json
+C:\Users\Admin\RiderProjects\VSC\TextRead\obj\Debug\net8.0\TextRead.dll
+C:\Users\Admin\RiderProjects\VSC\TextRead\obj\Debug\net8.0\refint\TextRead.dll
+C:\Users\Admin\RiderProjects\VSC\TextRead\obj\Debug\net8.0\TextRead.pdb
+C:\Users\Admin\RiderProjects\VSC\TextRead\obj\Debug\net8.0\TextRead.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\VSC\TextRead\obj\Debug\net8.0\ref\TextRead.dll

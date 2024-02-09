@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\VSC\taskcreate\bin\Debug\net8.0\taskcreate.exe
+C:\Users\Admin\RiderProjects\VSC\taskcreate\bin\Debug\net8.0\taskcreate.deps.json
+C:\Users\Admin\RiderProjects\VSC\taskcreate\bin\Debug\net8.0\taskcreate.runtimeconfig.json
+C:\Users\Admin\RiderProjects\VSC\taskcreate\bin\Debug\net8.0\taskcreate.dll
+C:\Users\Admin\RiderProjects\VSC\taskcreate\bin\Debug\net8.0\taskcreate.pdb
+C:\Users\Admin\RiderProjects\VSC\taskcreate\obj\Debug\net8.0\taskcreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\VSC\taskcreate\obj\Debug\net8.0\taskcreate.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\VSC\taskcreate\obj\Debug\net8.0\taskcreate.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\VSC\taskcreate\obj\Debug\net8.0\taskcreate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\VSC\taskcreate\obj\Debug\net8.0\taskcreate.sourcelink.json
+C:\Users\Admin\RiderProjects\VSC\taskcreate\obj\Debug\net8.0\taskcreate.dll
+C:\Users\Admin\RiderProjects\VSC\taskcreate\obj\Debug\net8.0\refint\taskcreate.dll
+C:\Users\Admin\RiderProjects\VSC\taskcreate\obj\Debug\net8.0\taskcreate.pdb
+C:\Users\Admin\RiderProjects\VSC\taskcreate\obj\Debug\net8.0\taskcreate.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\VSC\taskcreate\obj\Debug\net8.0\ref\taskcreate.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\VSC\stringWriter\bin\Debug\net8.0\stringWriter.exe
+C:\Users\Admin\RiderProjects\VSC\stringWriter\bin\Debug\net8.0\stringWriter.deps.json
+C:\Users\Admin\RiderProjects\VSC\stringWriter\bin\Debug\net8.0\stringWriter.runtimeconfig.json
+C:\Users\Admin\RiderProjects\VSC\stringWriter\bin\Debug\net8.0\stringWriter.dll
+C:\Users\Admin\RiderProjects\VSC\stringWriter\bin\Debug\net8.0\stringWriter.pdb
+C:\Users\Admin\RiderProjects\VSC\stringWriter\obj\Debug\net8.0\stringWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\VSC\stringWriter\obj\Debug\net8.0\stringWriter.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\VSC\stringWriter\obj\Debug\net8.0\stringWriter.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\VSC\stringWriter\obj\Debug\net8.0\stringWriter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\VSC\stringWriter\obj\Debug\net8.0\stringWriter.sourcelink.json
+C:\Users\Admin\RiderProjects\VSC\stringWriter\obj\Debug\net8.0\stringWriter.dll
+C:\Users\Admin\RiderProjects\VSC\stringWriter\obj\Debug\net8.0\refint\stringWriter.dll
+C:\Users\Admin\RiderProjects\VSC\stringWriter\obj\Debug\net8.0\stringWriter.pdb
+C:\Users\Admin\RiderProjects\VSC\stringWriter\obj\Debug\net8.0\stringWriter.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\VSC\stringWriter\obj\Debug\net8.0\ref\stringWriter.dll

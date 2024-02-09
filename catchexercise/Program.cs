@@ -17,11 +17,11 @@
         }
         catch (IndexOutOfRangeException e)
         {
-            Console.WriteLine("IndexOutOfRangeException poccurs");
+            Console.WriteLine("IndexOutOfRangeException occurs");
         }
         catch (Exception e)
         {
-            Console.WriteLine("Parent Exception accours");
+            Console.WriteLine("Parent Exception occurs");
         }
         
     }

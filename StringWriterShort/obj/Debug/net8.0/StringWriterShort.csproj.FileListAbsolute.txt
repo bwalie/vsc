@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\bin\Debug\net8.0\StringWriterShort.exe
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\bin\Debug\net8.0\StringWriterShort.deps.json
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\bin\Debug\net8.0\StringWriterShort.runtimeconfig.json
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\bin\Debug\net8.0\StringWriterShort.dll
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\bin\Debug\net8.0\StringWriterShort.pdb
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\obj\Debug\net8.0\StringWriterShort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\obj\Debug\net8.0\StringWriterShort.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\obj\Debug\net8.0\StringWriterShort.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\obj\Debug\net8.0\StringWriterShort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\obj\Debug\net8.0\StringWriterShort.sourcelink.json
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\obj\Debug\net8.0\StringWriterShort.dll
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\obj\Debug\net8.0\refint\StringWriterShort.dll
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\obj\Debug\net8.0\StringWriterShort.pdb
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\obj\Debug\net8.0\StringWriterShort.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\VSC\StringWriterShort\obj\Debug\net8.0\ref\StringWriterShort.dll
